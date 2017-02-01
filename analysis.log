@@ -1,0 +1,13 @@
+----Wed Feb  1 11:13:50 CET 2017----
+---cppcheck---
+*cppcheck analysis of program.c*
+Checking program.c...
+Checking usage of global functions..
+(information) Cppcheck cannot find all the include files (use --check-config for details)
+
+---cppncss---
+*cppncss analysis of program.c*
+File NCSS: 4.00
+File CCN: 1.00
+File Functions: 1.00
+
