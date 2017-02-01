@@ -1,4 +1,4 @@
 #include "program.h"
 int f2() {
-    return IZMIR + 10;
+    return IZMIR + 11;
 }

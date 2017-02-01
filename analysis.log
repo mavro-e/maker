@@ -1,13 +1,13 @@
-----Wed Feb  1 11:13:50 CET 2017----
+----Wed Feb  1 12:04:38 CET 2017----
 ---cppcheck---
-*cppcheck analysis of program.c*
-Checking program.c...
+*cppcheck analysis of file2.c*
+Checking file2.c...
 Checking usage of global functions..
-(information) Cppcheck cannot find all the include files (use --check-config for details)
+[file2.c:2]: (style) The function 'f2' is never used.
 
 ---cppncss---
-*cppncss analysis of program.c*
-File NCSS: 4.00
+*cppncss analysis of file2.c*
+File NCSS: 2.00
 File CCN: 1.00
 File Functions: 1.00
 
