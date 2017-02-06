@@ -1,13 +1,3 @@
-----Wed Feb  1 12:04:38 CET 2017----
+----Mon Feb  6 12:34:14 CET 2017----
 ---cppcheck---
-*cppcheck analysis of file2.c*
-Checking file2.c...
-Checking usage of global functions..
-[file2.c:2]: (style) The function 'f2' is never used.
-
 ---cppncss---
-*cppncss analysis of file2.c*
-File NCSS: 2.00
-File CCN: 1.00
-File Functions: 1.00
-
